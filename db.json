@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "6373",
+      "name": "Melanie Gusikowski"
+    },
+    {
+      "id": "ef80",
+      "name": "Jack Zboncak"
+    }
+  ],
+  "albums": [
+    {
+      "id": "10",
+      "title": "The Blueprint",
+      "userId": 1
+    },
+    {
+      "id": "b5bf",
+      "userId": "1",
+      "title": "Rustic Bronze Hat"
+    },
+    {
+      "id": "2c80",
+      "userId": "1",
+      "title": "Refined Metal Salad"
+    },
+    {
+      "id": "bb58",
+      "userId": "1",
+      "title": "Awesome Wooden Shirt"
+    },
+    {
+      "id": "be71",
+      "userId": "1",
+      "title": "Bespoke Frozen Computer"
+    },
+    {
+      "id": "de2d",
+      "userId": "1",
+      "title": "Bespoke Wooden Computer"
+    },
+    {
+      "id": "d588",
+      "userId": "1",
+      "title": "Bespoke Steel Soap"
+    },
+    {
+      "id": "2005",
+      "userId": "1",
+      "title": "Bespoke Metal Shirt"
+    },
+    {
+      "id": "0b79",
+      "userId": "1",
+      "title": "Rustic Soft Shirt"
+    },
+    {
+      "id": "f1f1",
+      "userId": "6373",
+      "title": "Gorgeous Wooden Fish"
+    },
+    {
+      "id": "5aba",
+      "userId": "6373",
+      "title": "Modern Rubber Soap"
+    },
+    {
+      "id": "8964",
+      "userId": "6373",
+      "title": "Incredible Fresh Tuna"
+    },
+    {
+      "id": "9f94",
+      "userId": "6373",
+      "title": "Tasty Concrete Ball"
+    },
+    {
+      "id": "2540",
+      "userId": "1",
+      "title": "Electronic Bronze Bike"
+    },
+    {
+      "id": "f066",
+      "userId": "1",
+      "title": "Licensed Frozen Fish"
+    },
+    {
+      "id": "53cb",
+      "userId": "6373",
+      "title": "Electronic Bronze Car"
+    }
+  ],
+  "photos": [
+    {
+      "id": "88f2",
+      "albumId": "b5bf",
+      "url": "https://loremflickr.com/150/150/abstract?lock=33244"
+    },
+    {
+      "id": "716c",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=36727"
+    },
+    {
+      "id": "4832",
+      "albumId": "2c80",
+      "url": "https://loremflickr.com/150/150/abstract?lock=23130"
+    }
+  ]
+}
